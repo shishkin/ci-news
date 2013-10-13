@@ -1,0 +1,7 @@
+(ns ci-news.core-test
+  (:require [clojure.test :refer :all]
+            [ci-news.core :refer :all]))
+
+(deftest a-test
+  (testing "FIXME, I fail."
+    (is (= 0 1))))
